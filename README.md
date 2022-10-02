@@ -2,7 +2,7 @@
 
 ## Soru 1-) Döngü kilitlenmeye sebep olacak mı?
 
-Döngü Main thread'de kilitlenmeye sebep oldu. Döngü devam ettiği sürece uygulama ekranı gelmedi.
+Döngü UI'da kilitlenmeye sebep oldu. Döngü devam ettiği sürece uygulama ekranı gelmedi.
 
 ## Soru 2-) Kilitlenmeye sebep olmadan  aşağıdaki blok çalışır mı?
 
